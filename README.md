@@ -27,8 +27,8 @@ O projeto deve ser publicado no **GitHub Pages** e apresentado em aula para o pr
 
 Descreva abaixo **sobre o que se trata seu site:**
 
-- **Tema:**
-- **Público-alvo:**
+- **Tema:** Plataforma digital para conectar ONGs de resgate animal, voluntários, adotantes e doadores, facilitando adoções responsáveis, arrecadações e acompanhamento de animais resgatados.
+- **Público-alvo:** ONGs de proteção animal, Lares temporários, Pessoas interessadas em doar, Clínicas veterinárias parceiras, Voluntários, Pessoas interessadas em fazer uma doação reponsável 
 - **Funcionalidades:**
 
 ## Uso de IA
