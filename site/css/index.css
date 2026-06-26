@@ -35,6 +35,7 @@ section{
     left: 0;
     z-index: 99;
     border-bottom: 0.2rem solid rgba(31 120 50);
+    height: 55px
 }
 
 .acesso{
@@ -44,13 +45,15 @@ section{
     font-size: 2.0rem;
     border-radius: 0.5rem;
     cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 2rem;
+  
 }
 
 .acesso:hover{
     background-color: var(--main-color);
-    height: 4px;
-    width: 4px;
-
 }
 
 .header section{
@@ -68,8 +71,8 @@ section{
 
 
 .icones-container img {
-    width: 40px;
-    height: 40px;
+    width: 48px;
+    height: 48px;
     cursor: pointer;
     transition: transform 0.2s ease, width 0.2s ease, height 0.2s ease;
 }
@@ -77,14 +80,14 @@ section{
 
 .icone-busca:hover {
     content: url("https://img.icons8.com/external-kmg-design-detailed-outline-kmg-design/64/90EE90/external-search-love-kmg-design-detailed-outline-kmg-design.png");
-    width: 48px;
-    height: 48px;  
+    width: 52px;
+    height: 52px;  
 }
 
 .icone-perfil:hover {
     content: url("https://img.icons8.com/doodle-line/60/90EE90/user.png");
-    width: 48px;  
-    height: 48px;
+    width: 52px;  
+    height: 52px;
 }
 .navegar a {
     font-size: 1.8rem;
@@ -112,7 +115,7 @@ section{
     margin-left: auto;
     margin-right: auto;
     max-width: 1000px;
-    min-height: 400px;
+    min-height: 450px;
 }
 .bloco-texto h3{
     color: #164727;
@@ -120,6 +123,7 @@ section{
     font-family: "DynaPuff", system-ui, sans-serif;
     margin-bottom: 10px;
     margin-top: 40px;
+    margin-left: 20px;
 }
 
 .texto-apresentacao {
@@ -147,3 +151,5 @@ section{
     margin-top: 45px;
     margin-left: 35px;
 }
+
+
