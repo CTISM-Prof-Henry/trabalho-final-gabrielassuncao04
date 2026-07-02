@@ -12,16 +12,16 @@ O projeto deve ser publicado no **GitHub Pages** e apresentado em aula para o pr
 
 ## 📌 Checklist
 
-* [ ] meu site tem pelo menos um arquivo do tipo `.html` 
-* [ ] estou usando CSS externo, em um arquivo separado `.css`
-* [ ] estou usando Javascript externo, em um arquivo separado `.js`
-* [ ] os arquivos do meu site estão na pasta `site`
-* [ ] a pasta `site` tem um arquivo `index.html`, que é a página inicial do meu site; sem esse arquivo, o GitHub Pages 
+* [X] meu site tem pelo menos um arquivo do tipo `.html` 
+* [X] estou usando CSS externo, em um arquivo separado `.css`
+* [X] estou usando Javascript externo, em um arquivo separado `.js`
+* [X] os arquivos do meu site estão na pasta `site`
+* [X] a pasta `site` tem um arquivo `index.html`, que é a página inicial do meu site; sem esse arquivo, o GitHub Pages 
       não vai funcionar
-* [ ] estou ciente que, se eu modificar ou excluir arquivos que não estejam na pasta `site` 
+* [X] estou ciente que, se eu modificar ou excluir arquivos que não estejam na pasta `site` 
       (por exemplo, `.github` ou `README.md`), isso pode afetar o funcionamento do meu site
-* [ ] respondi todas as perguntas e preenchi todos os checkboxes abaixo
-* [ ] meu site está hospedado no GitHub Pages, no link `<escreva aqui o link do seu site>`
+* [X] respondi todas as perguntas e preenchi todos os checkboxes abaixo
+* [X] meu site está hospedado no GitHub Pages, no link `<escreva aqui o link do seu site>`
 
 ## 📖 Descrição do projeto
 
@@ -29,13 +29,13 @@ Descreva abaixo **sobre o que se trata seu site:**
 
 - **Tema:** Plataforma digital para conectar ONGs de resgate animal, voluntários, adotantes e doadores, facilitando adoções responsáveis, arrecadações e acompanhamento de animais resgatados.
 - **Público-alvo:** ONGs de proteção animal, Lares temporários, Pessoas interessadas em doar, Clínicas veterinárias parceiras, Voluntários, Pessoas interessadas em fazer uma doação reponsável 
-- **Funcionalidades:**
+- **Funcionalidades:** Adotar Animais, Doar para o projeto, ver noticias correlacionadas o adoção e cuidados, partiicpar ativamente do projeto como uma ONG ou Veterinario interessado  
 
 ## Uso de IA
 
 Se você utilizou uma IA, marque a caixa abaixo e preencha os campos:
 
-* [ ] declaro que utilizei uma IA para me auxiliar na elaboração do trabalho, mas que domino os conceitos vistos em aula
+* [X] declaro que utilizei uma IA para me auxiliar na elaboração do trabalho, mas que domino os conceitos vistos em aula
   e saberei explicá-los quando indagado pelo professor.
 
 * **IA utilizada:**
@@ -51,64 +51,64 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 
 #### Estrutura básica
 
-- [ ] `<!DOCTYPE html>`
-- [ ] `<html>`
-- [ ] `<head>`
-- [ ] `<title>`
-- [ ] `<body>`
+- [x] `<!DOCTYPE html>`
+- [x] `<html>`
+- [x] `<head>`
+- [x] `<title>`
+- [x] `<body>`
 
 #### Estrutura semântica
 
-- [ ] `<header>`
-- [ ] `<nav>`
-- [ ] `<main>`
-- [ ] `<section>`
-- [ ] `<article>`
-- [ ] `<aside>`
-- [ ] `<footer>`
+- [x] `<header>`
+- [] `<nav>`
+- [] `<main>`
+- [x] `<section>`
+- [x] `<article>`
+- [] `<aside>`
+- [x] `<footer>`
 
 #### Conteúdo
 
-- [ ] Títulos (`h1`, `h2`, `h3`, etc.)
-- [ ] Parágrafos (`p`)
-- [ ] Imagens (`img`)
-- [ ] Links (`a`)
+- [x] Títulos (`h1`, `h2`, `h3`, etc.)
+- [x] Parágrafos (`p`)
+- [x] Imagens (`img`)
+- [x] Links (`a`)
 - [ ] Listas:
   - [ ] `ul`
   - [ ] `ol`
 
 #### Formulários
 
-- [ ] `<form>`
-- [ ] `<input>`
-- [ ] `<label>`
-- [ ] `<textarea>`
+- [x] `<form>`
+- [x] `<input>`
+- [x] `<label>`
+- [x] `<textarea>`
 - [ ] `<button>`
 
 ### 🎨 CSS
 
 - Seletor de...
-  - [ ] Classes (`.classe`)
-  - [ ] IDs (`#id`)
-  - [ ] pseudoclasse (`#a::hover`)
-- [ ] Cores
-- [ ] Tipografia (e.g. `font-family`)
-- [ ] Margem e padding
-- [ ] Layout com `flexbox`
-- [ ] Layout com `grid`
-- [ ] Responsividade (`media queries`)
-- [ ] Animações ou transições
+  - [x] Classes (`.classe`)
+  - [x] IDs (`#id`)
+  - [x] pseudoclasse (`#a::hover`)
+- [x] Cores
+- [x] Tipografia (e.g. `font-family`)
+- [x] Margem e padding
+- [x] Layout com `flexbox`
+- [x] Layout com `grid`
+- [x] Responsividade (`media queries`)
+- [x] Animações ou transições
 
 ## ⚙️ JavaScript
 
-- [ ] Manipulação do DOM
-- [ ] Eventos (`click`, `submit`, etc.)
-- [ ] Validação de formulário
-- [ ] Alteração dinâmica de conteúdo
-- [ ] Uso de funções
-- [ ] Uso de arrays ou objetos
-- [ ] Uso de `fetch` ou API externa
-- [ ] local Storage
+- [x] Manipulação do DOM
+- [x] Eventos (`click`, `submit`, etc.)
+- [] Validação de formulário
+- [x] Alteração dinâmica de conteúdo
+- [x] Uso de funções
+- [] Uso de arrays ou objetos
+- [] Uso de `fetch` ou API externa
+- [] local Storage
 
 
 ## 📂 Estrutura do projeto
@@ -141,5 +141,8 @@ site/
 Utilize este espaço para comentar:
 
 - dificuldades encontradas
+Principal dificuldade no CSS, dificuldade de entender como as coisas se ancaixarim no final, ocasionando textes sem fim, e por muitas vez não chegando no resultado esperado  
 - decisões de design
+Fazer algo agradavél que conversasse com o tema, cor verde predominante, pois acredito na correlação com saude e bem estar que o site tende a passar, deixar o site de certa forma divertido que misturasse o lado descontraido de encontrar um companheiro de quadro patas  
 - melhorias que podem ser feitas no futuro
+Terminar as paginas que falta, me frustrei em não conseguir entregar algo mais completo, pois acredito no potencial do meu projeto  
