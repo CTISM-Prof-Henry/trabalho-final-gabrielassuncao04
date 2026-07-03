@@ -83,7 +83,7 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 - [x] `<input>`
 - [x] `<label>`
 - [x] `<textarea>`
-- [ ] `<button>`
+- [x] `<button>`
 
 ### 🎨 CSS
 
@@ -117,13 +117,13 @@ Descreva brevemente a organização dos arquivos do seu projeto.
 
 Exemplo:
 
-```
+
 site/
 │
 ├── index.html
 ├── pages/
 │   ├── about.html
-│   └── contact.html
+│   └── erro.html
 │
 ├── css/
 │   └── style.css
@@ -132,8 +132,13 @@ site/
 │   └── script.js
 │
 └── images/
+    ├── 
+    └── banner.jpg
     ├── logo.png
     └── banner.jpg
+    ├── logo.png
+    └── banner.jpg
+    
 ```
 
 ## 💡 Observações
