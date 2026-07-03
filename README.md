@@ -94,9 +94,9 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 - [x] Cores
 - [x] Tipografia (e.g. `font-family`)
 - [x] Margem e padding
-- [x] Layout com `flexbox`
-- [x] Layout com `grid`
-- [x] Responsividade (`media queries`)
+- [] Layout com `flexbox`
+- [] Layout com `grid`
+- [] Responsividade (`media queries`)
 - [x] Animações ou transições
 
 ## ⚙️ JavaScript
@@ -118,26 +118,47 @@ Descreva brevemente a organização dos arquivos do seu projeto.
 Exemplo:
 
 
-site/
-│
-├── index.html
-├── pages/
-│   ├── about.html
-│   └── erro.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── images/
-    ├── 
-    └── banner.jpg
-    ├── logo.png
-    └── banner.jpg
-    ├── logo.png
-    └── banner.jpg
+│   .gitignore
+│   AJUDA.md
+│   PERGUNTAS_TRABALHO.md
+│   README.md
+│   
+├───.github
+│   └───workflows
+│           github_pages.yml
+│           
+└───site
+    │   index.html
+    │   
+    ├───css
+    │       index.css
+    │       
+    ├───images
+    │       469182613_588944446962421_6217108343086825262_n.jpg
+    │       623371162_2914846925392720_1812550793638776914_n.jpg
+    │       629413480_122157866840903876_4587118750910669072_n.jpg
+    │       629439978_25697140773260488_3547914607675322671_n.jpg
+    │       634446128_2933531773524235_5620183380259957908_n.jpg
+    │       amigos_pets.jpg
+    │       arrumar.jpg
+    │       castra.jpeg
+    │       favicon.png
+    │       imagem_qrcode_exemplo.jpg
+    │       load_1.png
+    │       load_2.png
+    │       logo.jpg
+    │       pequenas-patas-de-gato-padrao-sem-costura_840036-1465.jpg
+    │       pointer.png
+    │       silveira.avif
+    │       vacinação.jpg
+    │       veteri-parceira.jpg
+    │       
+    ├───js
+    │       index.js
+    │       
+    └───pages
+            about.html
+            erro.html
     
 ```
 
