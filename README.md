@@ -106,7 +106,7 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 - [] Validação de formulário
 - [x] Alteração dinâmica de conteúdo
 - [x] Uso de funções
-- [] Uso de arrays ou objetos
+- [X] Uso de arrays ou objetos
 - [] Uso de `fetch` ou API externa
 - [] local Storage
 
