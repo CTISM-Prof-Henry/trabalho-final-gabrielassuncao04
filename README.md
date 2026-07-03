@@ -60,7 +60,7 @@ Marque com `[x]` os elementos que **foram implementados no seu site**. Você nã
 #### Estrutura semântica
 
 - [x] `<header>`
-- [] `<nav>`
+- [X] `<nav>`
 - [] `<main>`
 - [x] `<section>`
 - [x] `<article>`
